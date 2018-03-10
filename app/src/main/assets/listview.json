@@ -1,0 +1,475 @@
+{
+
+  "Food_Habits" : [
+    {
+      "Food" : "Dairy products"
+    },
+    {
+      "Food" : "Legumes"
+    },
+    {
+      "Food" : "Sweet potatoes"
+    },
+    {
+      "Food" : "Salmon"
+    },
+    {
+      "Food" : "Eggs"
+    },
+    {
+      "Food" : "Broccoli and dark, leafy greens"
+    },
+    {
+      "Food" : "Lean meat"
+    },
+    {
+      "Food" : "Fish liver oil"
+    },
+    {
+      "Food" : "Berries"
+    },
+    {
+      "Food" : "Whole grains"
+    },
+    {
+      "Food" : "Avocados"
+    },
+    {
+      "Food" : "Dried fruit"
+    },
+    {
+      "Food" : "Water"
+    }
+  ],
+
+  "FAQ": [
+    {
+      "PersonName" : "Hema",
+      "Heath_category" : "Beauty care",
+      "Question" : "I Am facing acne problems? Please suggest!"
+    },
+    {
+      "PersonName" : "Sushma",
+      "Heath_category" : "Hair care",
+      "Question" : "Suffering from hair loss! Please suggest!"
+    },
+    {
+      "PersonName" : "Pooja",
+      "Heath_category" : "Beauty care",
+      "Question" : "Suffering from dryness of skin! Please suggest some home remedy"
+    },
+    {
+      "PersonName" : "Lakshmi",
+      "Heath_category" : "Hair care",
+      "Question" : "How to stop hair fall instantly using any home remedy?"
+    },
+    {
+      "PersonName" : "Preeta",
+      "Heath_category" : "Diet and Fitness",
+      "Question" : "Suggest some home remedies for weight loss"
+    },
+    {
+      "PersonName" : "Rani",
+      "Heath_category" : "Skin care",
+      "Question" : "Home remedy to remove dark circles"
+    }
+  ],
+
+  "Health_tips" : [
+
+    {
+      "Tip" : "Place a tissue with a few drops of lavender oil inside your pillowcase before sleeping",
+      "Description" : "Whether you have trouble sleeping or not, the scent of lavender can work as aromatherapy,helping you sleep deeper and more peacefully.\n"
+    },
+    {
+      "Tip" : "Care for your eyes by following the 20/20/20 rule",
+      "Description" : "We spend a great deal of our days looking at screens. This may cause a strain on our eyes, especially if this is done for a long time. This rule says that we should take a 20 second break every 20 minutes by looking away from the screen into a distance of 20 ft (6 meters).\n"
+    },
+    {
+      "Tip" : "Find some time to meditate - even if it's just 10 minutes",
+      "Description" : "The hustle and bustle of our days can sometimes drain our energy and leave us with no time for ourselves. But when you start to find time for meditation, and really appreciating the moment, you won't want to go back. This only demands 10 minutes of your day or less, but it will make a huge difference in many ways.\n"
+    },
+    {
+      "Tip" : "Avoid the heavy use of technology outside work hours",
+      "Description" : "If  you've spent a whole day looking at a computer screen at work, do your body a favor and disconnect for some time, especially before you sleep.\n"
+    },
+    {
+      "Tip" : "Try going to bed an hour earlier than usual",
+      "Description" : "Lack of sleep is one of the causes of stress-related symptoms. Avoid straining your body by giving it enough rest. And if you think you'll get carried away doing one of your late night chores, set an alarm to remind you of your much-needed bed time.\n"
+    },
+    {
+      "Tip" : "Be aware of your posture, especially if you work from a desk most of the day",
+      "Description" : "Are you aware of the way you are sitting at your desk at work? Make sure your computer is positioned the right distance away from your eyes and your table is of the perfect height. Take a look at this ergonomic guide to avoid developing posture problems in the future.\n"
+    }
+
+  ],
+
+  "NGO_locations" : [
+    {
+      "NGO_name" : "Women NGO 1",
+      "Latitude" : "12.9864085",
+      "Longitude" : "77.4604216",
+      "Email" : "women_ngo1@gmail.com",
+      "Contact" : "9876543210",
+      "Address" : "Women NGO 1, Women Era, 987650 "
+    },
+    {
+      "NGO_name" : "Women NGO 2",
+      "Latitude" : "12.9796763",
+      "Longitude" : "77.5376782",
+      "Email" : "women_ngo2@gmail.com",
+      "Contact" : "9876543211",
+      "Address" : "Women NGO 2, Women Era, 987651"
+    },
+    {
+      "NGO_name" : "Women NGO 3",
+      "Latitude" : "12.9801859",
+      "Longitude" : "77.4782057",
+      "Email" : "women_ngo3@gmail.com",
+      "Contact" : "9876543212",
+      "Address" : "Women NGO 3, Women Era, 987652 "
+    },
+    {
+      "NGO_name" : "Women NGO 4",
+      "Latitude" : "12.9689783",
+      "Longitude" : "77.531249",
+      "Email" : "women_ngo4@gmail.com",
+      "Contact" : "9876543213",
+      "Address" : "Women NGO 4, Women Era, 987653 "
+    },
+    {
+      "NGO_name" : "Women NGO 5",
+      "Latitude" : "12.9885233",
+      "Longitude" : "77.5643095",
+      "Email" : "women_ngo5@gmail.com",
+      "Contact" : "9876543214",
+      "Address" : "Women NGO 5, Women Era, 987654 "
+    },
+    {
+      "NGO_name" : "Women NGO 6",
+      "Latitude" : "19.0783454",
+      "Longitude" : "72.7552424",
+      "Email" : "women_ngo6@gmail.com",
+      "Contact" : "9876543215",
+      "Address" : "Women NGO 6, Women Era, 987655"
+    },
+    {
+      "NGO_name" : "Women NGO 7",
+      "Latitude" : "19.123602",
+      "Longitude" : "72.8450213",
+      "Email" : "women_ngo7@gmail.com",
+      "Contact" : "9876543216",
+      "Address" : "Women NGO 7, Women Era, 987656 "
+    },
+    {
+      "NGO_name" : "Women NGO 8",
+      "Latitude" : "19.1167089",
+      "Longitude" : "72.8445922",
+      "Email" : "women_ngo8@gmail.com",
+      "Contact" : "9876543217",
+      "Address" : "Women NGO 8, Women Era, 987657 "
+    },
+    {
+      "NGO_name" : "Women NGO 9",
+      "Latitude" : "19.092459",
+      "Longitude" : "72.7952395",
+      "Email" : "women_ngo9@gmail.com",
+      "Contact" : "9876543218",
+      "Address" : "Women NGO 9, Women Era, 987658 "
+    },
+    {
+      "NGO_name" : "Women NGO 10",
+      "Latitude" : "19.0967577",
+      "Longitude" : "72.8361808",
+      "Email" : "women_ngo10@gmail.com",
+      "Contact" : "9876543219",
+      "Address" : "Women NGO 10, Women Era, 987659 "
+    },
+    {
+      "NGO_name" : "Women NGO 11",
+      "Latitude" : "17.4228586",
+      "Longitude" : "78.3672245",
+      "Email" : "women_ngo11@gmail.com",
+      "Contact" : "9876543220",
+      "Address" : "Women NGO 11, Women Era, 987640 "
+    },
+    {
+      "NGO_name" : "Women NGO 12",
+      "Latitude" : "17.3484848",
+      "Longitude" : "78.4424122",
+      "Email" : "women_ngo12@gmail.com",
+      "Contact" : "9876543221",
+      "Address" : "Women NGO 12, Women Era, 987641 "
+    },
+    {
+      "NGO_name" : "Women NGO 13",
+      "Latitude" : "17.4156519",
+      "Longitude" : "78.3737476",
+      "Email" : "women_ngo13@gmail.com",
+      "Contact" : "9876543222",
+      "Address" : "Women NGO 13, Women Era, 987642 "
+    },
+    {
+      "NGO_name" : "Women NGO 14",
+      "Latitude" : "18.5503877",
+      "Longitude" : "73.7140726",
+      "Email" : "women_ngo14@gmail.com",
+      "Contact" : "9876543223",
+      "Address" : "Women NGO 14, Women Era, 987643 "
+    },
+    {
+      "NGO_name" : "Women NGO 15",
+      "Latitude" : "18.5393208",
+      "Longitude" : "73.7257456",
+      "Email" : "women_ngo15@gmail.com",
+      "Contact" : "9876543224",
+      "Address" : "Women NGO 15, Women Era, 987644 "
+    },
+    {
+      "NGO_name" : "Women NGO 16",
+      "Latitude" : "18.5328106",
+      "Longitude" : "73.7023996",
+      "Email" : "women_ngo16@gmail.com",
+      "Contact" : "9876543225",
+      "Address" : "Women NGO 16, Women Era, 987645 "
+    },
+    {
+      "NGO_name" : "Women NGO 17",
+      "Latitude" : "28.6412258",
+      "Longitude" : "77.0378605",
+      "Email" : "women_ngo17@gmail.com",
+      "Contact" : "9876543226",
+      "Address" : "Women NGO 17, Women Era, 987646 "
+    },
+    {
+      "NGO_name" : "Women NGO 18",
+      "Latitude" : "24.3089228",
+      "Longitude" : "71.0649826",
+      "Email" : "women_ngo18@gmail.com",
+      "Contact" : "9876543227",
+      "Address" : "Women NGO 18, Women Era, 987647 "
+    }
+  ],
+
+  "Doctors_locations" : [
+    {
+      "doc_name" : "Dr. Abcd 1",
+      "Latitude" : "12.9300784",
+      "Longitude" : "77.6278528",
+      "Email" : "drabcd1@gmail.com",
+      "Contact" : "1234567890",
+      "Address" : "Doctor Abcd1, Doctors colony, 12345 ",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 2",
+      "Latitude" : "12.9376532",
+      "Longitude" : "77.567595",
+      "Email" : "drabcd2@gmail.com",
+      "Contact" : "9876543211",
+      "Address" : "Doctor Abcd2, Doctors colony, 123451",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 3",
+      "Latitude" : "12.9426723",
+      "Longitude" : "77.610167",
+      "Email" : "drabcd3@gmail.com",
+      "Contact" : "9876543212",
+      "Address" : "Doctor Abcd3, Doctors colony, 123452",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 4",
+      "Latitude" : "12.9633979",
+      "Longitude" : "77.5875075",
+      "Email" : "drabcd4@gmail.com",
+      "Contact" : "9876543213",
+      "Address" : "Doctor Abcd4, Doctors colony, 123453",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 5",
+      "Latitude" : "12.9389729",
+      "Longitude" : "77.5681098",
+      "Email" : "drabcd5@gmail.com",
+      "Contact" : "9876543214",
+      "Address" : "Doctor Abcd5, Doctors colony, 123454 ",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 6",
+      "Latitude" : "17.3421609",
+      "Longitude" : "76.8298112",
+      "Email" : "drabcd6@gmail.com",
+      "Contact" : "9876543215",
+      "Address" : "Doctor Abcd6, Doctors colony, 123455",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 7",
+      "Latitude" : "17.3334677",
+      "Longitude" : "76.829616",
+      "Email" : "drabcd7@gmail.com",
+      "Contact" : "9876543216",
+      "Address" : "Doctor Abcd7, Doctors colony, 123456",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 8",
+      "Latitude" : "17.3336614",
+      "Longitude" : "76.8392468",
+      "Email" : "drabcd8@gmail.com",
+      "Contact" : "9876543217",
+      "Address" : "Doctor Abcd8, Doctors colony, 123457 ",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 9",
+      "Latitude" : "17.3331289",
+      "Longitude" : "76.8478872",
+      "Email" : "drabcd9@gmail.com",
+      "Contact" : "9876543218",
+      "Address" : "Doctor Abcd9, Doctors colony, 123458",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 10",
+      "Latitude" : "18.5578437",
+      "Longitude" : "73.8730684",
+      "Email" : "drabcd10@gmail.com",
+      "Contact" : "9876543219",
+      "Address" : "Doctor Abcd10, Doctors colony, 123410",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 11",
+      "Latitude" : "18.536458",
+      "Longitude" : "73.8993282",
+      "Email" : "drabcd11@gmail.com",
+      "Contact" : "9876543220",
+      "Address" : "Doctor Abcd11, Doctors colony, 123411",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 12",
+      "Latitude" : "18.5668609",
+      "Longitude" : "73.860037",
+      "Email" : "drabcd12@gmail.com",
+      "Contact" : "9876543221",
+      "Address" : "Women NGO 12, Women Era, 987641 ",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 13",
+      "Latitude" : "19.0713724",
+      "Longitude" : "72.8659841",
+      "Email" : "drabcd13@gmail.com",
+      "Contact" : "9876543222",
+      "Address" : "Doctor Abcd13, Doctors colony, 1234512 ",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 14",
+      "Latitude" : "19.0612321",
+      "Longitude" : "72.8540537",
+      "Email" : "drabcd14@gmail.com",
+      "Contact" : "9876543223",
+      "Address" : "Doctor Abcd14, Doctors colony, 1234513 ",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 15",
+      "Latitude" : "19.0789256",
+      "Longitude" : "72.8257113",
+      "Email" : "drabcd15@gmail.com",
+      "Contact" : "9876543224",
+      "Address" : "Doctor Abcd15, Doctors colony, 1234514",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 16",
+      "Latitude" : "19.0058921",
+      "Longitude" : "72.7546196",
+      "Email" : "drabcd16@gmail.com",
+      "Contact" : "9876543225",
+      "Address" : "Doctor Abcd16, Doctors colony, 1234515",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 17",
+      "Latitude" : "53.2993762",
+      "Longitude" : "-2.7856403",
+      "Email" : "drabcd17@gmail.com",
+      "Contact" : "9876543226",
+      "Address" : "Doctor Abcd17, Doctors colony, 1234516",
+      "timing" : "09:00am - 09:00pm"
+    },
+    {
+      "doc_name" : "Dr. Abcd 18",
+      "Latitude" : "53.3223503",
+      "Longitude" : "-1.6622884",
+      "Email" : "drabcd18@gmail.com",
+      "Contact" : "9876543227",
+      "Address" : "Doctor Abcd18, Doctors colony, 1234517 ",
+      "timing" : "09:00am - 09:00pm"
+    }
+  ],
+
+  "Contribute_NGO" : [
+    {
+      "NGO_Name" : "Women NGO 1",
+      "Account_number" : "12345xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 2",
+      "Account_number" : "67890xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 3",
+      "Account_number" : "54321xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 4",
+      "Account_number" : "09876xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 5",
+      "Account_number" : "91827xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 6",
+      "Account_number" : "76543xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 7",
+      "Account_number" : "98776xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 8",
+      "Account_number" : "57678xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 9",
+      "Account_number" : "32343xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 10",
+      "Account_number" : "57657xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 11",
+      "Account_number" : "46554xxxxxxx"
+    },
+    {
+      "NGO_Name" : "Women NGO 12",
+      "Account_number" : "65467xxxxxxx"
+    }
+  ]
+}
+
+
+
+
+
+

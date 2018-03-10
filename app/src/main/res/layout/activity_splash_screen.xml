@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".aashna_main.Splash_Screen"
+    android:gravity="center"
+    android:id="@+id/ly">
+
+      <ImageView
+          android:id="@+id/image"
+          android:layout_width="120dp"
+          android:layout_height="120dp"
+          android:src="@drawable/icon_image"
+          android:layout_marginBottom="20dp"/>
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textStyle="bold"
+          android:gravity="center"
+          android:textSize="45sp"
+          android:text="AASHNA"
+          android:id="@+id/txt"
+          android:textColor="@color/white"/>
+
+</LinearLayout>
+

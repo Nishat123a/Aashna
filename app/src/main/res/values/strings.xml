@@ -1,0 +1,288 @@
+<resources>
+    <string name="app_name">Aashna</string>
+
+    <string name="ALLinone">Allow Aashna to access following permissions : \n \u0020 \n
+        <b>Photos/Media/Files</b> \n \u0020 \u2022 read the contents of your USB storage \n \u0020 \u2022 modify or delete the contents of your USB storage \n\u0020 \n
+        <b>Contacts</b> \n \u0020 \u2022 read your contacts \n \u0020 \n
+        <b>SMS</b> \n  \u0020 \u2022 Send SMS messages </string>
+    <string name="str_img1">
+        The most well-known face amongst Indian women entrepreneurs -Indra Nooyi is the CFO and President of PepsiCo. \n\n
+        With a Masters Degree in Public Management from Yale University and Masters in Finance and Marketing from IIM,
+        Kolkata, Nooyi held several senior positions at Motorola and Asea Brown Boveri before joining PepsiCo. \n\n
+        Born in Chennai, Indra did her Bachelor’s in Science from Madras Christian College in 1974 . \n\n
+        Beginning her career in India, Nooyi held product manager positions at Johnson and Johnson and textile firm Mettur Beardsell.
+        Nooyi joined PepsiCo in 1994 and was named president and CFO in 2001.
+        She has been conferred with prestigious Padma Bhushan for her business achievements and being an inspiration to India’s corporate leadership. \n\n
+        Her strong acumen for business has helped the company garner as much as 30 billion dollars worth of crucial deals within the last couple of years. \n\n
+
+    </string>
+    <string name="str_img2">Vandana Luthra</string>
+    <string name="str_img3">Naina Lal Kidwai</string>
+    <string name="str_img4">Chanda Kochar</string>
+    <string name="str_img5">Suchi Mukherjee</string>
+
+
+    <string name="NO">INTERNET IS NOT AVAILABLE</string>
+    <string name="Emergencyclick">If an emergency happens we advise you to use our Emergency Alert Service.This service is available when your phone is locked.To setup this service follow below steps. </string>
+    <string name="Query">Query/Feedback</string>
+    <string name="Step1">Step 1: Add contacts to our Emergency Contact List.</string>
+    <string name="Step2">Step 2: Enable Lock screen alert.</string>
+    <string name="Step3">Step 3: Enable Location Access before you unlock screen.</string>
+    <string name="Step4">Step 4: Click power button during emergency to display Emergency Contacts.</string>
+    <string name="Step5">Step 5: Then click on Call or SMS button for required contact .On click of SMS button your selected contacts will receive an Emergency Alert message along with your current location . </string>
+    <!--<string name="Mail">Mail us at : <a href="team@innovatumsolution.com" target="_top">team@innovatumsolution.com</a></string>-->
+    <string name="Mail">Mail us at : <a href="adil.nishat18@gmail.com" target="_top">adil.nishat18@gmail.com</a></string>
+    <!--<string name="Web">Website : <a href="innovatumsolution.com" target="_top">innovatumsolution.com</a></string>-->
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="SMS">Send SMS</string>
+    <string name="Share">Share</string>
+    <string name="Agreement">Share</string>
+
+    <string name="Location_permission"> Location \n \u2022 precise location(GPS and network based)  \n \u2022 approximate location (network based)  </string>
+    <string name="Storage_permission">Photos/Media/Files \n \u2022 read the contents of your USB storage \n \u2022 modify or delete the contents of your USB storage</string>
+    <string name="Contacts_permission">Contacts \n \u2022 read your contacts </string>
+    <string name="SMS_permission">SMS \n \u2022 Send SMS messages</string>
+    <string name="appwants">Allow In Case Of Emergency to access following permissions :</string>
+   <!-- <string name="ALLinone">Allow In Case Of Emergency to access following permissions : \n \u0020 \n
+       <b>Location</b>\n \u0020 \u2022  precise location(GPS and network based) \n \u0020 \u2022 approximate location (network based) \n\u0020 \n
+        <b>Photos/Media/Files</b> \n \u0020 \u2022 read the contents of your USB storage \n \u0020 \u2022 modify or delete the contents of your USB storage \n\u0020 \n
+        <b>Contacts</b> \n  \u0020 \u2022 read your contacts \n \u0020 \n
+        <b>SMS</b> \n  \u0020 \u2022 Send SMS messages </string>-->
+    <string name="lable">In Case of Emergency</string>
+
+
+    <string name="pos0">
+        During pregnancy, you need to consume extra protein and calcium to meet the needs of the growing fetus. \n\n
+
+        Dairy products contain two types of high quality protein: casein and whey.
+        Dairy is the best dietary source of calcium, and provides high amounts of phosphorus,
+        various B-vitamins, magnesium and zinc. \n\n
+
+        Yogurt, especially Greek yogurt, is particularly beneficial for pregnant women. \n\n
+
+        It contains more calcium than any other dairy product.
+        Some varieties also contain probiotic bacteria, which support digestive health. \n\n
+
+        People who are lactose intolerant may also be able to tolerate yogurt, especially probiotic yogurt. \n\n
+
+        Taking probiotic supplements during pregnancy may reduce the risk of complications such as preeclampsia,
+        gestational diabetes, vaginal infections and allergies. \n\n
+    </string>
+
+    <string name="pos1">
+        This group of food includes lentils, peas, beans, chickpeas, soybeans and peanuts. \n\n
+
+        Legumes are excellent plant-based sources of fiber, protein, iron, folate (B9) and calcium,
+        all of which the body needs more of during pregnancy. \n\n
+
+        Folate is one of the B-vitamins (B9). It is very important for the health of the mother and fetus,
+        especially during the first trimester. \n\n
+
+        However, most pregnant women are not consuming nearly enough folate. \n\n
+
+        This has been linked with an increased risk of neural tube defects and low birth weight.
+        Insufficient folate intake may also cause the child to be more prone to infections and disease later in life. \n\n
+
+        Legumes contain high amounts of folate. One cup of lentils, chickpeas or black beans may provide from 65–90% of the RDA. \n\n
+
+        Furthermore, legumes are generally very high in fiber. Some varieties are also high in iron, magnesium and potassium. \n\n
+    </string>
+
+    <string name="pos2">
+      Sweet potatoes are very rich in beta-carotene, a plant compound that is converted into vitamin A in the body. \n\n
+
+        Vitamin A is essential for growth, as well as for the differentiation of most cells and tissues.
+        It is very important for healthy fetal development. \n\n
+
+        Pregnant women are generally advised to increase their vitamin A intake by 10–40%. \n\n
+
+        However, they are also advised to avoid very high amounts of animal-based sources of vitamin A,
+        which may cause toxicity when eaten in excess. \n\n
+
+        Therefore, beta-carotene is a very important source of vitamin A for pregnant women.\n\n
+
+        Sweet potatoes are an excellent source of beta-carotene.\n\n
+        About 100–150 grams (3.5–5.3 oz) of cooked sweet potatoes fulfills the entire RDI. \n\n
+
+        Furthermore, sweet potatoes contain fiber, which may increase fullness, reduce blood sugar spikes and
+        improve digestive health and mobility. \n\n
+    </string>
+
+    <string name="pos3">
+     Salmon is very rich in essential omega-3 fatty acids. \n\n
+
+    Most people, including pregnant women, are not getting nearly enough omega-3 from their diet. \n\n
+
+    Omega-3 fatty acids are essential during pregnancy, especially the long-chain omega-3 fatty acids DHA and EPA. \n\n
+
+    These are found in high amounts in seafood, and help build the brain and eyes of the fetus. \n\n
+
+    Yet pregnant women are generally advised to limit their seafood intake to twice a week,due to the mercury and other contaminants found in fatty fish. \n\n
+
+    This has caused some women to avoid seafood altogether, thus limiting the intake of essential omega-3 fatty acids. \n\n
+
+    However, studies have shown that pregnant women who eat 2–3 meals of fatty fish per week achieve the
+        recommended intake of omega-3 and increase their blood levels of EPA and DHA. \n\n
+
+    Salmon is also one of very few natural sources of vitamin D, which is often lacking in the diet.
+        It is very important for many processes in the body, including bone health and immune function. \n\n
+    </string>
+
+    <string name="pos4">
+    Eggs are the ultimate health food, because they contain a little bit of almost every nutrient you need. \n\n
+
+    A large egg contains 77 calories, as well as high-quality protein and fat. It also contains many vitamins and minerals. \n\n
+
+    Eggs are a great source of choline. Choline is essential for many processes in the body,
+        including brain development and health. \n\n
+
+    A dietary survey in the US showed that over 90 percent of people consumed less than the recommended amount of choline. \n\n
+
+    Low choline intake during pregnancy may increase the risk of neural tube defects and possibly lead to
+        decreased brain function. \n\n
+
+    A single whole egg contains roughly 113 mg of choline, which is about 25 percent of the recommended daily intake
+        for pregnant women (450 mg). \n\n
+    </string>
+
+    <string name="pos5">
+   Broccoli and dark, green vegetables, such as kale and spinach, contain many of the nutrients that pregnant women need. \n\n
+
+    These include fiber, vitamin C, vitamin K, vitamin A, calcium, iron, folate and potassium. \n\n
+
+    Furthermore, broccoli and leafy greens are rich in antioxidants.\n\n
+        They also contain plant compounds that benefit the immune system and digestion. \n\n
+
+    Due to their high fiber content, these vegetables may also help prevent constipation.\n\n
+        This is a very common problem among pregnant women. \n\n
+
+    Consuming green, leafy vegetables has also been linked with a reduced risk of low birth weight. \n\n
+    </string>
+
+    <string name="pos6">
+    Beef, pork and chicken are excellent sources of high-quality protein. \n\n
+
+    Furthermore, beef and pork are also rich in iron, choline and other B-vitamins — all of which are needed in higher amounts during pregnancy. \n\n
+
+    Iron is an essential mineral that is used by red blood cells as a part of hemoglobin. It is important for delivering oxygen to all cells in the body. \n\n
+
+    Pregnant women need more iron, since their blood volume is increasing. This is particularly important during the third trimester. \n\n
+
+    Low levels of iron during early and mid-pregnancy may cause iron deficiency anemia, which doubles the risk of premature delivery and low birth weight. \n\n
+
+    It may be hard to cover iron needs with diet alone, especially since many pregnant women develop an aversion to meat. \n\n
+
+    However, for those who can, eating red meat regularly may help increase the amount of iron acquired from the diet. \n\n
+
+    Eating foods that are rich in vitamin C, such as oranges or bell peppers, may also help increase absorption of iron from meals.\n\n
+    </string>
+
+
+    <string name="pos7">
+    Fish liver oil is made from the oily liver of fish, most often cod. \n\n
+
+    The oil is very rich in the omega-3 fatty acids EPA and DHA, which are essential for fetal brain and eye development. \n\n
+
+    Fish liver oil is also very high in vitamin D, which many people do not get enough of.\n\n
+        It may be highly beneficial for those who don’t regularly eat seafood or supplement with omega-3 or vitamin D. \n\n
+
+    Low vitamin D intake has been linked with an increased risk of preeclampsia.\n\n
+        This potentially dangerous complication is characterized by high blood pressure,
+        swelling of the hands and feet, and protein in the urine. \n\n
+
+    Consuming cod liver oil during early pregnancy has been linked with higher birth weight and
+        a lower risk of disease later in the baby’s life. \n\n
+
+    A single serving (one tablespoon) of fish liver oil provides more than the recommended daily intake of omega-3,
+        vitamin D and vitamin A. \n\n
+
+    However, it is not recommended to consume more than one serving (one tablespoon) per day,
+        because too much preformed vitamin A can be dangerous for the fetus.
+        High levels of omega-3 may also have blood-thinning effects. \n\n
+    </string>
+
+    <string name="pos8">
+    Berries are packed with water, healthy carbs, vitamin C, fiber and plant compounds. \n\n
+
+    They generally contain high amounts of vitamin C, which helps the body absorb iron. \n\n
+
+    Vitamin C is also important for skin health and immune function. \n\n
+
+    Berries have a relatively low glycemic index value, so they should not cause major spikes in blood sugar. \n\n
+
+    Berries are also a great snack because they contain both water and fiber.\n\n
+        They provide a lot of flavor and nutrition, but with relatively few calories. \n\n
+    </string>
+
+    <string name="pos9">
+    Eating whole grains may help meet the increased calorie requirements that come with pregnancy,
+        especially during the second and third trimesters. \n\n
+
+    As opposed to refined grains, whole grains are packed with fiber, vitamins and plant compounds. \n\n
+
+    Oats and quinoa also contain a fair amount of protein, which is important during pregnancy. \n\n
+
+    Additionally, whole grains are generally rich in B-vitamins, fiber and magnesium.
+        All of these are frequently lacking in the diets of pregnant women. \n\n
+    </string>
+
+    <string name="pos10">
+    Avocados are an unusual fruit because they contain a lot of monounsaturated fatty acids. \n\n
+
+    They are also high in fiber, B-vitamins (especially folate), vitamin K, potassium, copper, vitamin E and vitamin C. \n\n
+
+    Because of their high content of healthy fats, folate and potassium, avocados are a great choice for pregnant women. \n\n
+
+    The healthy fats help build the skin, brain and tissues of the fetus, and folate may help prevent neural tube defects. \n\n
+
+    Potassium may help relieve leg cramps, a side effect of pregnancy for some women.\n\n
+        Avocados actually contain more potassium than bananas. \n\n
+    </string>
+
+    <string name="pos11">
+    Dried fruit is generally high in calories, fiber and various vitamins and minerals. \n\n
+
+    One piece of dried fruit contains the same amount of nutrients as fresh fruit,
+        just without all the water and in a much smaller form. \n\n
+
+    Therefore, one serving of dried fruit can provide a large percentage of the recommended intake of many
+        vitamins and minerals, including folate, iron and potassium. \n\n
+
+    Prunes are rich in fiber, potassium, vitamin K and sorbitol.\n\n
+        They are natural laxatives, and may be very helpful in relieving constipation. \n\n
+
+    Dates are high in fiber, potassium, iron and plant compounds.\n\n
+        Regular date consumption in the third trimester may help facilitate cervical dilation and reduce the
+        need to induce labor. \n\n
+
+    However, dried fruit also contains high amounts of natural sugar.\n\n
+        Make sure to avoid the candied varieties, which contain even more sugar.\n\n
+
+    Although dried fruit may help increase calorie and nutrient intake,
+        it is generally not recommended to consume more than one serving at a time. \n\n
+    </string>
+
+    <string name="pos12">
+    During pregnancy, blood volume increases by up to 1.5 liters. Therefore, it is important to stay properly hydrated. \n\n
+
+    The fetus usually gets everything it needs, but if you don’t watch your water intake, you may become dehydrated. \n\n
+
+    Symptoms of mild dehydration include headaches, anxiety, tiredness, bad mood and reduced memory. \n\n
+
+    Furthermore, increasing water intake may help relieve constipation and reduce the risk of urinary tract infections,
+        which are common during pregnancy. \n\n
+
+    General guidelines recommend drinking about 2 liters of water per day, but the amount you really need varies by individual. \n\n
+
+    As an estimate, you should be drinking about 1–2 liters each day.\n\n
+        Just keep in mind that you also get water from other foods and beverages, such as fruit, vegetables,
+        coffee and tea. \n\n
+
+    As a rule of thumb, you should always drink water when you’re thirsty, and drink until you’ve quenched your thirst. \n\n
+    </string>
+
+
+</resources>

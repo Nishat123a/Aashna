@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#212121</color>
+    <color name="PreviousColorAccent">#FF4081</color>
+
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorAccent">#e53935</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="background">#70ffebee</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="Grey">#636363</color>
+    <color name="brightwhite">#ffffff</color>
+    <color name="white_trans">#00000000</color>
+
+    <color name="yellow">#c5e79e1f</color>
+    <color name="re">#dbe7361f</color>
+
+    <color name="bg">#3dea2a31</color>
+</resources>

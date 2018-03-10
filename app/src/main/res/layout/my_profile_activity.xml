@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:id="@+id/parent"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
+
+
+        <ImageView
+            android:src="@drawable/person_img"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/layout_border"
+            android:padding="20dp">
+
+
+
+            <TextView android:id="@+id/tname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Name"
+                android:textColor="@color/primary_text"/>
+
+
+        <!--    <TextView android:id="@+id/username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="User Name"
+                android:textColor="@color/primary_text"/>-->
+
+
+            <TextView android:id="@+id/tgen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Gender"
+                android:textColor="@color/primary_text"/>
+
+
+            <TextView android:id="@+id/tbday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Birth Day"
+                android:textColor="@color/primary_text"/>
+
+
+
+
+            <TextView android:id="@+id/tmob"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Contact Number"
+                android:textColor="@color/primary_text"/>
+
+
+
+            <TextView android:id="@+id/temail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Email"
+                android:textColor="@color/primary_text"/>
+
+            <TextView android:id="@+id/address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Address"
+                android:textColor="@color/primary_text"/>
+
+            <TextView
+                android:id="@+id/tpswd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:hint="Password"
+                android:visibility="gone"
+                />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>
